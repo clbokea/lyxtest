@@ -123,25 +123,15 @@ This field MUST be before the "Opening" field!
 \end_layout
 
 \begin_layout Opening
-<Dear ...>
+Julie
 \end_layout
 
 \begin_layout Standard
-<Text of Your Letter.
- To create a real letter, just replace all the text in <> (including the
- 
-\begin_inset Quotes eld
-\end_inset
-
-<>
-\begin_inset Quotes erd
-\end_inset
-
- characters) with the desired text.> 
+I think you are lovely! 
 \end_layout
 
 \begin_layout Closing
-<Yours sincerely,>
+Yours sincerely, Claus
 \end_layout
 
 \begin_layout cc
